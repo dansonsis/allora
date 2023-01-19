@@ -1,0 +1,33 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo {
+}
+.menu-list {
+}
+.menu-link {
+    font-family: Roboto 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #373C42;
+    border-bottom: color;
+    /* text-decoration:underline;
+    text-underline-offset: 7px;
+    text-decoration-color: #9181FF; */
+}
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.user-text {
+}
+.user-icon {
+}
